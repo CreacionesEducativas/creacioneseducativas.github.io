@@ -1,15 +1,15 @@
 url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+baseurl: ""
 
 # Site settings
-title: Awesome Title
+title: Asesorias y creaciones educativas
 email: your-email@domain.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Karen Orozco
   pic: 1
   position: Lead Designer
   social:
@@ -20,7 +20,7 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Carlos Orozco
   pic: 2
   position: Lead Marketer
   social:
@@ -31,7 +31,7 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Sergio Orozco
   pic: 3
   position: Lead Developer
   social:
@@ -40,6 +40,8 @@ people:
     - title: facebook
       url: #
     - title: google-plus
+      url: #
+    - title: stack-overflow
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -50,7 +52,7 @@ social:
     url:
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
+  - title: bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/jekyll
